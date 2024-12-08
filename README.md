@@ -4,31 +4,29 @@
 
 ## Folder structure:
 
-```
-gamified-lms/
-│
-├── backend/
-│   ├── app/
-│   │   ├── __init__.py
-│   │   ├── models.py
-│   │   ├── views.py
-│   │   └── ...
-│   ├── migrations/
-│   ├── config.py
-│   ├── manage.py
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── styles/
-│   │   └── App.js
-│   └── package.json
-│
-├── docs/
-│   └── README.md
-│
+```.
+├── ShikshaMitra/
+│   ├── static/
+│   │   ├── css
+│   │   ├── img
+│   │   └── js
+│   └── templates/
+│       ├── index.html
+│       ├── achievements.html
+│       ├── dashboard.html
+│       ├── leaderboard.html
+│       └── login.html
+├── db.sqlite
+├── models.py
+├── run.py
+├── config.py
+├── scss/
+│   ├── bootstrap.scss
+│   └── lib
+├── img/
+│   └── all images..
+├── 404.html
+├── README.md
 └── .env
 ```
 
