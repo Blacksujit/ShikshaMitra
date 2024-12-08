@@ -30,19 +30,19 @@
 └── .env
 ```
 
-## Introduction
+## Introduction:
 
 Shiksha Mitra is an innovative MVP designed to reshape the way students learn through gamification. Our platform transforms the traditional approach to education by making learning engaging, interactive, and rewarding. As an MVP, Shiksha Mitra focuses on delivering core features that showcase the value of gamified learning,
 
-## Problem Statement
+## Problem Statement:
 
 Traditional learning platforms often fail to keep students engaged, leading to decreased participation and lower learning outcomes. Our goal is to create a **Gamified LMS** that motivates students by introducing game-like elements into their educational journey.
 
-## What We Expect
+## What We Expect:
 
 We aim to develop an **engaging LMS** that promotes active participation through gamification techniques. By rewarding achievements, tracking progress, and providing an interactive learning environment, this platform helps students stay motivated and committed to their educational goals.
 
-## Solution Guidelines
+## Solution Guidelines:
 
 The LMS will include the following key features:
 - **Achievements and Badges**: Students will earn badges for completing milestones, such as finishing a course or scoring well on quizzes.
@@ -98,14 +98,14 @@ The LMS will include the following key features:
 
 ### Steps
 
-1. **Clone the repository**:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/gamified-lms.git
    cd gamified-lms
    ```
 
 
-2. **Set Up Environment**:
+2. **Set Up Environment:**
 
 ```
 python3 -m venv venv
@@ -148,7 +148,7 @@ Update the database URL in the .env file.
 5.) **Responsive UI**: Ensure the platform is mobile-friendly for students to access on any device.
 
 
-5.)  **Future Enhancements**:
+##  **Future Enhancements**:
 
 1.) **Social Learning Features**: Add chatrooms or discussion forums to promote collaborative learning.
 
